@@ -15,4 +15,4 @@ This project involved transforming raw sales and financial data for AtliQ Hardwa
 🔹 **Operations & Supply Chain Teams** – Helps with **inventory management and cost reduction strategies**.  
 
 📌 **Explore the Full Project & Dashboard Here:**  
-🔗 **LinkedIN:** [Insert Link]  
+🔗 **LinkedIN:** [[Insert Link](https://www.linkedin.com/posts/animesh-daniel-2b85b9b0_salesfinancereport-activity-7304498673931939840-n8JY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeU9WwBp0IVD1ADo9ZfPH8pksv4cS9e_p4)]  
